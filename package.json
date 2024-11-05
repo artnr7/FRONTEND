@@ -1,0 +1,24 @@
+{
+  "name": "game_snake",
+  "version": "1.0.0",
+  "description": "Snake Game Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artnr7/game_snake.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Arthur Nigmatullin <artnr7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artnr7/game_snake/issues"
+  },
+  "homepage": "https://github.com/artnr7/game_snake#readme"
+}
